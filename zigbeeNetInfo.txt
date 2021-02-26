@@ -1,0 +1,11 @@
+Node ID:0
+Pan ID:0x5A93
+Radio Channel:15
+Radio Power:13
+Extended Pan Id: 9B79088442904824
+EUI64: C42DF3FEFFAC33BC
+Global Key: BC BE EC A5 AB 6D C1 35 63 CE BD 11 A6 C8 C1 84
+Global FC:0xFFFFFFFF
+Network Key: B8 90 C0 72 E7 C9 10 CC B8 4B B9 D2 2D 9D 49 28
+Network FC:0x00004001
+Network Sequence Number:0x00
